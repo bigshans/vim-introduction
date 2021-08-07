@@ -1,0 +1,6 @@
+[book]
+authors = ["Bigshans"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Vim 与 Vim 模式导论"
